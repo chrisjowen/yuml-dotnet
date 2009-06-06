@@ -1,0 +1,5 @@
+F:\Projects\Proofs\ToYuml\ToYuml\bin\Debug\ToYuml.dll
+F:\Projects\Proofs\ToYuml\ToYuml\bin\Debug\ToYuml.pdb
+F:\Projects\Proofs\ToYuml\ToYuml\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Proofs\ToYuml\ToYuml\obj\Debug\ToYuml.dll
+F:\Projects\Proofs\ToYuml\ToYuml\obj\Debug\ToYuml.pdb

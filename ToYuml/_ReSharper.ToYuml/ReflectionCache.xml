@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741833">
+  <Assembly Name="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="67ff5e15-2d40-4d98-9a0e-bfe72a5ed120" Timestamp="633529680480000000" XmlDocIndexTimestamp="633490003300000000" />
+  <Assembly Name="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="f3f4b29e-66c3-479b-ba4f-6705ee69a628" Timestamp="633529680480000000" XmlDocIndexTimestamp="633490003300000000" />
+  <Assembly Name="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="481ed33d-f7ae-41f6-a86b-4abd0e62d938" Timestamp="633529680480000000" XmlDocIndexTimestamp="633490003300000000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.0.819.19, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="8876ceb4-2c6c-402e-a603-e7c51ce1caa7" Timestamp="633486419860000000" XmlDocIndexTimestamp="633486419860000000" />
+  <Assembly Name="nunit.framework, Version=2.4.3.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77" Image="7abea501-ef55-49c5-917e-1a9a55e654da" Timestamp="633228911780000000" XmlDocIndexTimestamp="633228911780000000" />
+  <Assembly Name="Portal.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Image="b1561763-09be-47ce-b57c-5db09f09fc0e" Timestamp="633797236759531250" />
+  <Assembly Name="Lucene.Net, Version=2.0.0.4, Culture=neutral, PublicKeyToken=255f08c3cb6b422d" Image="ce9d1205-10de-413e-83da-92f53b2c690b" Timestamp="633769896086718750" XmlDocIndexTimestamp="633770273712656250" />
+  <Assembly Name="NHibernate.Search, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" Image="672b8656-f1dd-43f0-982e-17a5a302a30f" Timestamp="633769896086875000" />
+  <Assembly Name="Ninject.Core, Version=1.5.0.158, Culture=neutral, PublicKeyToken=c7192dc5380945e7" Image="39cd8c60-562e-446a-8e8d-50e1575fa06a" Timestamp="633769896090000000" XmlDocIndexTimestamp="633770273712187500" />
+  <Assembly Name="NHibernate, Version=2.0.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4" Image="ad5846d0-1a3c-48ef-8a14-cc71baeb92b8" Timestamp="633769896088281250" XmlDocIndexTimestamp="633770273765468750" />
+</Assemblies>

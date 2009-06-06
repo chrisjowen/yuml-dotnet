@@ -1,0 +1,169 @@
+<Configuration>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/f:AssemblyFilterFixtures.cs" caret="228" scrollPosition="0|0" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/d:Objects/f:Bird.cs" caret="299" scrollPosition="0|0" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="481" scrollPosition="0|0" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/f:YumlGeneratorTests.cs" caret="2955" scrollPosition="0|0" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/d:Objects/f:Animal.cs" caret="34" scrollPosition="0|0" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:AssemblyFilter.cs" caret="316" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="4737" scrollPosition="0|74" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="4737" scrollPosition="0|56" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="4737" scrollPosition="39|50" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/f:YumlGeneratorTests.cs" caret="774" scrollPosition="0|0" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="4737" scrollPosition="0|50" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="1423" scrollPosition="0|12" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="2247" scrollPosition="0|27" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="759" scrollPosition="0|6" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/d:Objects/f:Animal.cs" caret="34" scrollPosition="0|0" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/d:Objects/f:Bird.cs" caret="480" scrollPosition="0|0" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/f:YumlGeneratorTests.cs" caret="1793" scrollPosition="0|15" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/f:YumlGeneratorTests.cs" caret="1529" scrollPosition="0|15" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="1040" scrollPosition="0|9" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="4830" scrollPosition="0|63" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="1190" scrollPosition="0|21" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:AssemblyFilter.cs" caret="293" scrollPosition="0|0" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/f:YumlGeneratorTests.cs" caret="2099" scrollPosition="0|21" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/d:Objects/f:Bird.cs" caret="382" scrollPosition="0|0" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/d:Objects/f:Bird.cs" caret="313" scrollPosition="0|0" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="4192" scrollPosition="0|67" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="3753" scrollPosition="0|67" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="2543" scrollPosition="15|66" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="3530" scrollPosition="0|63" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/f:YumlGeneratorTests.cs" caret="2489" scrollPosition="0|33" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="3188" scrollPosition="0|63" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="3670" scrollPosition="0|66" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="268" scrollPosition="0|0" />
+      <File id="9D2C2EF2-666B-43A2-AB4F-675ED5208E4D/f:YumlGenerator.cs" caret="2733" scrollPosition="0|61" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/f:YumlGeneratorTests.cs" caret="157" scrollPosition="0|0" />
+      <File id="E8C0F869-06F3-48A9-BA4F-D2636E09DD9F/f:YumlGeneratorTests.cs" caret="2813" scrollPosition="30|41" />
+    </RecentEdits>
+  </RecentFiles>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="UseSolutionBuilder">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="9" />
+      <Item value="string" priority="4" />
+      <Item value="public" priority="13" />
+      <Item value="void" priority="1" />
+      <Item value="var" priority="10" />
+      <Item value="new" priority="8" />
+      <Item value="typeof" priority="4" />
+      <Item value="Assembly" priority="1" />
+      <Item value="ReflectionHelper" priority="0" />
+      <Item value="Assert" priority="1" />
+      <Item value="Contains" priority="9" />
+      <Item value="TypeFilter" priority="0" />
+      <Item value="assembly" priority="1" />
+      <Item value="GetTypes" priority="1" />
+      <Item value="List&lt;Type&gt;" priority="1" />
+      <Item value="That" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="List" priority="3" />
+      <Item value="Type" priority="6" />
+      <Item value="this" priority="2" />
+      <Item value="Types" priority="3" />
+      <Item value="foreach" priority="2" />
+      <Item value="StringBuilder" priority="2" />
+      <Item value="IList" priority="0" />
+      <Item value="types" priority="1" />
+      <Item value="Add" priority="2" />
+      <Item value="YumlGenerator" priority="0" />
+      <Item value="Yuml" priority="0" />
+      <Item value="AreEqual" priority="0" />
+      <Item value="sb" priority="3" />
+      <Item value="ToString" priority="2" />
+      <Item value="switch" priority="0" />
+      <Item value="type" priority="7" />
+      <Item value="if" priority="10" />
+      <Item value="IsClass" priority="0" />
+      <Item value="Append" priority="4" />
+      <Item value="Name" priority="3" />
+      <Item value="BaseType" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="MsgUtils" priority="0" />
+      <Item value="bool" priority="2" />
+      <Item value="true" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="continue" priority="0" />
+      <Item value="class" priority="2" />
+      <Item value="enum" priority="0" />
+      <Item value="RelationShip" priority="0" />
+      <Item value="List&lt;RelationShip&gt;" priority="0" />
+      <Item value="prevType" priority="0" />
+      <Item value="RelationshipType" priority="4" />
+      <Item value="Inherits" priority="0" />
+      <Item value="Relationship" priority="1" />
+      <Item value="Exists" priority="2" />
+      <Item value="r" priority="2" />
+      <Item value="Type1" priority="4" />
+      <Item value="equals" priority="0" />
+      <Item value="obj" priority="0" />
+      <Item value="Type2" priority="2" />
+      <Item value="GetInterfaces" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="IBirdOfPray" priority="0" />
+      <Item value="AddRange" priority="0" />
+      <Item value="Claw" priority="0" />
+      <Item value="GetProperties" priority="0" />
+      <Item value="GetType" priority="2" />
+      <Item value="is" priority="1" />
+      <Item value="PropertyType" priority="0" />
+      <Item value="Portal" priority="1" />
+      <Item value="Core" priority="1" />
+      <Item value="Infrastructure" priority="1" />
+      <Item value="ScheduledAction" priority="0" />
+      <Item value="GetExportedTypes" priority="0" />
+      <Item value="TestFixtureAttribute" priority="0" />
+      <Item value="NHibernate" priority="2" />
+      <Item value="TransactionException" priority="1" />
+      <Item value="Wing" priority="0" />
+      <Item value="GetInterface" priority="1" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="FullName" priority="2" />
+      <Item value="MakeGenericType" priority="0" />
+      <Item value="Equals" priority="0" />
+      <Item value="Console" priority="0" />
+      <Item value="WriteLine" priority="0" />
+      <Item value="IsGenericType" priority="0" />
+      <Item value="IGrouping" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="Model" priority="0" />
+      <Item value="Entities" priority="0" />
+      <Item value="Folder" priority="0" />
+      <Item value="StaleStateException" priority="0" />
+      <Item value="t" priority="0" />
+      <Item value="Namespace" priority="0" />
+      <Item value="ToList" priority="0" />
+      <Item value="Person" priority="0" />
+      <Item value="TransientObjectException" priority="0" />
+      <Item value="Cache" priority="0" />
+      <Item value="FilterKey" priority="0" />
+      <Item value="ToLower" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
